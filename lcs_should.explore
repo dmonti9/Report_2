@@ -1,0 +1,2484 @@
+-------------
+sentence: Theophylline serum levels should be monitored and appropriate dose adjustments considered for patients given both theophylline and PEGASYS.
+entities: Theophylline / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Theophylline serum levels should be monitored and appropriate dose adjustments considered for patients given both theophylline and PEGASYS.
+entities: Theophylline / PEGASYS
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Adverse reactions related to alpha interferons, such as CNS, cardiac, and systemic (eg, flu-like) effects may be more severe in the elderly and caution should be exercised in the use of PEGASYS in this population.
+entities: alpha interferons / PEGASYS
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: PEGASYS should be used with caution in patients with creatinine clearance  50 mL/min and COPEGUS should not be administered to patients with creatinine clearance  50 mL/min
+entities: PEGASYS / COPEGUS
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Since the therapeutic range of theophylline is narrow theophylline serum levels should be monitored closely, and appropriate dosage adjustments of theophylline should be made.
+entities: theophylline / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Since the therapeutic range of theophylline is narrow theophylline serum levels should be monitored closely, and appropriate dosage adjustments of theophylline should be made.
+entities: theophylline / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Plasma valproate concentration should be monitored when isoniazid and valproate are co administered, and appropriate dosage adjustments of valproate should be made.
+entities: valproate / isoniazid
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Plasma valproate concentration should be monitored when isoniazid and valproate are co administered, and appropriate dosage adjustments of valproate should be made.
+entities: valproate / valproate
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Plasma valproate concentration should be monitored when isoniazid and valproate are co administered, and appropriate dosage adjustments of valproate should be made.
+entities: valproate / valproate
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients using CYP3A4 metabolized statins should have cholesterol levels monitored after TRACLEER is initiated to see whether the statin dose needs adjustment.
+entities: statins / TRACLEER
+ddi: advise
+>>> match: have_VB
+-------------
+sentence: Patients using CYP3A4 metabolized statins should have cholesterol levels monitored after TRACLEER is initiated to see whether the statin dose needs adjustment.
+entities: statins / statin
+ddi: null
+>>> match: have_VB
+-------------
+sentence: Oral Anticoagulants CAUTION SHOULD BE EXERCISED WHEN COUMARIN ANTICOAGULANTS ARE GIVEN IN CONJUNCTION WITH TRICOR.
+entities: Anticoagulants / COUMARIN ANTICOAGULANTS
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Oral Anticoagulants CAUTION SHOULD BE EXERCISED WHEN COUMARIN ANTICOAGULANTS ARE GIVEN IN CONJUNCTION WITH TRICOR.
+entities: Anticoagulants / TRICOR
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Resins: Since bile acid sequestrants may bind other drugs given concurrently, patients should take TRICOR at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption.
+entities: bile acid sequestrants / TRICOR
+ddi: null
+>>> match: take_VB
+-------------
+sentence: Resins: Since bile acid sequestrants may bind other drugs given concurrently, patients should take TRICOR at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption.
+entities: bile acid sequestrants / bile acid binding resin
+ddi: null
+>>> match: take_VB
+-------------
+sentence: Resins: Since bile acid sequestrants may bind other drugs given concurrently, patients should take TRICOR at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption.
+entities: TRICOR / bile acid binding resin
+ddi: mechanism
+>>> match: take_VB
+-------------
+sentence: Therefore, fenofibrate should be taken at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption .
+entities: fenofibrate / bile acid binding resin
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: The daily dose of ENABLEX should not exceed 7.5 mg when coadministered with potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir, nelfinavir, clarithromycin and nefazadone) .
+entities: ENABLEX / ketoconazole
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: The daily dose of ENABLEX should not exceed 7.5 mg when coadministered with potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir, nelfinavir, clarithromycin and nefazadone) .
+entities: ENABLEX / itraconazole
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: The daily dose of ENABLEX should not exceed 7.5 mg when coadministered with potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir, nelfinavir, clarithromycin and nefazadone) .
+entities: ENABLEX / ritonavir
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: The daily dose of ENABLEX should not exceed 7.5 mg when coadministered with potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir, nelfinavir, clarithromycin and nefazadone) .
+entities: ENABLEX / nelfinavir
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: The daily dose of ENABLEX should not exceed 7.5 mg when coadministered with potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir, nelfinavir, clarithromycin and nefazadone) .
+entities: ENABLEX / clarithromycin
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: however, it adversely affected response duration suggesting that pyridoxine should not be administered with HEXALEN and/or cisplatin.1
+entities: pyridoxine / HEXALEN
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: however, it adversely affected response duration suggesting that pyridoxine should not be administered with HEXALEN and/or cisplatin.1
+entities: pyridoxine / cisplatin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Special consideration should be given to the administration of ETHYOL in patients receiving antihypertensive medications or other drugs that could cause or potentiate hypotension.
+entities: ETHYOL / antihypertensive medications
+ddi: advise
+>>> match: give_VB
+-------------
+sentence: Because of the possible additive effects of drugs that may depress the nervous system, ethanol or triazolam should be used cautiously in combination with tiagabine.
+entities: ethanol / tiagabine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Because of the possible additive effects of drugs that may depress the nervous system, ethanol or triazolam should be used cautiously in combination with tiagabine.
+entities: triazolam / tiagabine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. 
+entities: paliperidone / INVEGA
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. 
+entities: paliperidone / centrally acting drugs
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. 
+entities: paliperidone / alcohol
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. 
+entities: INVEGA / centrally acting drugs
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol. 
+entities: INVEGA / alcohol
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Therefore, physicians should closely monitor patients for a change in anticoagulant dosage requirements when administering Mitotane to patients on coumarin-type anticoagulants. 
+entities: anticoagulant / Mitotane
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Therefore, physicians should closely monitor patients for a change in anticoagulant dosage requirements when administering Mitotane to patients on coumarin-type anticoagulants. 
+entities: anticoagulant / coumarin-type anticoagulants
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted as required.
+entities: theophylline / theophylline
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Although this interaction has not been reported with cinoxacin, caution should be exercised when cinoxacin is given concomitantly with caffeine-containing products.
+entities: cinoxacin / cinoxacin
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Although this interaction has not been reported with cinoxacin, caution should be exercised when cinoxacin is given concomitantly with caffeine-containing products.
+entities: cinoxacin / caffeine
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.
+entities: lithium / INSPRA
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.
+entities: lithium / lithium
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.
+entities: anticholinesterase agents / corticosteroid
+ddi: advise
+>>> match: withdraw_VB
+-------------
+sentence: Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
+entities: Aspirin / corticosteroids
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible.
+entities: vaccines / corticosteroid
+ddi: advise
+>>> match: defer_VB
+-------------
+sentence: When given concomitantly with felodipine, the tacrolimus blood concentration should be followed and the tacrolimus dose may need to be adjusted.
+entities: felodipine / tacrolimus
+ddi: null
+>>> match: follow_VB
+-------------
+sentence: NSAIDs should be used with caution in patients taking cyclosporine, and renal function should be carefully monitored.
+entities: NSAIDs / cyclosporine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Because Matulane exhibits some monoamine oxidase inhibitory activity, sympathomimetic drugs, tricyclic antidepressant drugs (e.g., amitriptyline HCl, imipramine HCl) and other drugs and foods with known high tyramine content, such as wine, yogurt, ripe cheese and bananas, should be avoided. 
+entities: Matulane / sympathomimetic drugs
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Because Matulane exhibits some monoamine oxidase inhibitory activity, sympathomimetic drugs, tricyclic antidepressant drugs (e.g., amitriptyline HCl, imipramine HCl) and other drugs and foods with known high tyramine content, such as wine, yogurt, ripe cheese and bananas, should be avoided. 
+entities: Matulane / amitriptyline HCl
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Because Matulane exhibits some monoamine oxidase inhibitory activity, sympathomimetic drugs, tricyclic antidepressant drugs (e.g., amitriptyline HCl, imipramine HCl) and other drugs and foods with known high tyramine content, such as wine, yogurt, ripe cheese and bananas, should be avoided. 
+entities: Matulane / imipramine HCl
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Because Matulane exhibits some monoamine oxidase inhibitory activity, sympathomimetic drugs, tricyclic antidepressant drugs (e.g., amitriptyline HCl, imipramine HCl) and other drugs and foods with known high tyramine content, such as wine, yogurt, ripe cheese and bananas, should be avoided. 
+entities: Matulane / tyramine
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: As most entacapone excretion is via the bile, caution should be exercised when drugs known to interfere with biliary excretion, glucuronidation, and intestinal beta-glucuronidase are given concurrently with entacapone.
+entities: entacapone / entacapone
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: sirolimus / sirolimus
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: sirolimus / nifedipine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: sirolimus / sirolimus
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: sirolimus / nifedipine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: nifedipine / sirolimus
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: nifedipine / nifedipine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: nifedipine / sirolimus
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: nifedipine / nifedipine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: MYCAMINE / sirolimus
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: MYCAMINE / nifedipine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: MYCAMINE / sirolimus
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving sirolimus or nifedipine in combination with MYCAMINE should be monitored for sirolimus or nifedipine toxicity and sirolimus or nifedipine dosage should be reduced if necessary. 
+entities: MYCAMINE / nifedipine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Ocupress should be used with caution in patients who are receiving a beta-adrenergic blocking agent orally because of the potential for additive effects on systemic beta-blockade.
+entities: Ocupress / beta-adrenergic blocking agent
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Thus, when VIOXX and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
+entities: VIOXX / lithium
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Thus, when VIOXX and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
+entities: lithium / lithium
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Standard monitoring of methotrexate-related toxicity should be continued if VIOXX and methotrexate are administered concomitantly.
+entities: methotrexate / VIOXX
+ddi: null
+>>> match: continue_VB
+-------------
+sentence: Standard monitoring of methotrexate-related toxicity should be continued if VIOXX and methotrexate are administered concomitantly.
+entities: methotrexate / methotrexate
+ddi: null
+>>> match: continue_VB
+-------------
+sentence: Therefore, a starting daily dose of 25 mg of VIOXX should be considered for the treatment of osteoarthritis when VIOXX is co-administered with potent inducers of hepatic metabolism.
+entities: VIOXX / VIOXX
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Adequate monitoring of theophylline plasma concentrations should be considered when therapy with VIOXX is initiated or changed in patients receiving theophylline.
+entities: theophylline / VIOXX
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Adequate monitoring of theophylline plasma concentrations should be considered when therapy with VIOXX is initiated or changed in patients receiving theophylline.
+entities: theophylline / theophylline
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Evidence of spontaneous recovery from succinylcholine should be observed before the administration of MIVACRON. 
+entities: succinylcholine / MIVACRON
+ddi: advise
+>>> match: observe_VB
+-------------
+sentence: DOSTINEX should not be administered concurrently with D2-antagonists, such as phenothiazines, butyrophenones, thioxanthines, or metoclopramide.
+entities: DOSTINEX / phenothiazines
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: DOSTINEX should not be administered concurrently with D2-antagonists, such as phenothiazines, butyrophenones, thioxanthines, or metoclopramide.
+entities: DOSTINEX / butyrophenones
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: DOSTINEX should not be administered concurrently with D2-antagonists, such as phenothiazines, butyrophenones, thioxanthines, or metoclopramide.
+entities: DOSTINEX / thioxanthines
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: DOSTINEX should not be administered concurrently with D2-antagonists, such as phenothiazines, butyrophenones, thioxanthines, or metoclopramide.
+entities: DOSTINEX / metoclopramide
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate.
+entities: proton pump inhibitors / sucralfate
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Zidovudine should either be temporarily discontinued or decreased by 50% when coadministered with probenecid on the day of VISTIDE infusion.
+entities: Zidovudine / probenecid
+ddi: advise
+>>> match: discontinue_VB
+-------------
+sentence: Zidovudine should either be temporarily discontinued or decreased by 50% when coadministered with probenecid on the day of VISTIDE infusion.
+entities: Zidovudine / VISTIDE
+ddi: null
+>>> match: discontinue_VB
+-------------
+sentence: However, interactions may be expected, and UROXATRAL should NOT be used in combination with other alpha-blockers.
+entities: UROXATRAL / alpha-blockers
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: If diuretics cannot be interrupted, close medical supervision should be provided with the first dose of ACEON    Tablets, for at least two hours and until blood pressure has stabilized for another hour. 
+entities: diuretics / ACEON
+ddi: advise
+>>> match: provide_VB
+-------------
+sentence: If NovoLog is mixed with NPH human insulin, NovoLog should be drawn into the syringe first.
+entities: NovoLog / NovoLog
+ddi: null
+>>> match: draw_VB
+-------------
+sentence: If NovoLog is mixed with NPH human insulin, NovoLog should be drawn into the syringe first.
+entities: NPH human insulin / NovoLog
+ddi: null
+>>> match: draw_VB
+-------------
+sentence: Because there are no data on the compatibility of NovoLog and crystalline zinc insulin preparations, NovoLog should not be mixed with these preparations.
+entities: NovoLog / NovoLog
+ddi: null
+>>> match: mix_VB
+-------------
+sentence: Because there are no data on the compatibility of NovoLog and crystalline zinc insulin preparations, NovoLog should not be mixed with these preparations.
+entities: zinc insulin / NovoLog
+ddi: null
+>>> match: mix_VB
+-------------
+sentence: When used in external subcutaneous infusion pumps for insulin, NovoLog should not be mixed with any other insulins or diluent.
+entities: insulin / NovoLog
+ddi: null
+>>> match: mix_VB
+-------------
+sentence: When used in external subcutaneous infusion pumps for insulin, NovoLog should not be mixed with any other insulins or diluent.
+entities: insulin / insulins
+ddi: null
+>>> match: mix_VB
+-------------
+sentence: When used in external subcutaneous infusion pumps for insulin, NovoLog should not be mixed with any other insulins or diluent.
+entities: NovoLog / insulins
+ddi: null
+>>> match: mix_VB
+-------------
+sentence: Patients receiving azathioprine and allopurinol concomitantly should have a dose reduction of azathioprine, to approximately 1/3 to 1/4 the usual dose.
+entities: azathioprine / azathioprine
+ddi: null
+>>> match: have_VB
+-------------
+sentence: Patients receiving azathioprine and allopurinol concomitantly should have a dose reduction of azathioprine, to approximately 1/3 to 1/4 the usual dose.
+entities: allopurinol / azathioprine
+ddi: null
+>>> match: have_VB
+-------------
+sentence: Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
+entities: lithium / lithium
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when LEXAPRO and lithium are coadministered.
+entities: lithium / LEXAPRO
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when LEXAPRO and lithium are coadministered.
+entities: lithium / lithium
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when LEXAPRO and lithium are coadministered.
+entities: escitalopram / LEXAPRO
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when LEXAPRO and lithium are coadministered.
+entities: escitalopram / lithium
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
+entities: citalopram / carbamazepine
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
+entities: citalopram / carbamazepine
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
+entities: citalopram / escitalopram
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
+entities: carbamazepine / carbamazepine
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
+entities: carbamazepine / escitalopram
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: therefore, if glucocorticoid replacement is needed, hydrocortisone should be prescribed.
+entities: glucocorticoid / hydrocortisone
+ddi: null
+>>> match: prescribe_VB
+-------------
+sentence: Because both of these drugs have negative inotropic properties and the effects of coadministration with TAMBOCOR are unknown, neither disopyramide nor verapamil should be administered concurrently with TAMBOCOR unless, in the judgment of the physician, the benefits of this combination outweigh the risks.
+entities: disopyramide / TAMBOCOR
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Because both of these drugs have negative inotropic properties and the effects of coadministration with TAMBOCOR are unknown, neither disopyramide nor verapamil should be administered concurrently with TAMBOCOR unless, in the judgment of the physician, the benefits of this combination outweigh the risks.
+entities: verapamil / TAMBOCOR
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Vasoconstrictors: D.H.E. 45  (dihydroergotamine mesylate) Injection, USP should not be used with peripheral vasoconstrictors because the combination may cause synergistic elevation of blood pressure.
+entities: dihydroergotamine mesylate / peripheral vasoconstrictors
+ddi: effect
+>>> match: use_VB
+-------------
+sentence: As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, mesalazine, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent thioguanine therapy.    
+entities: aminosalicylate derivatives / thioguanine
+ddi: mechanism
+>>> match: administer_VB
+-------------
+sentence: As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, mesalazine, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent thioguanine therapy.    
+entities: olsalazine / thioguanine
+ddi: mechanism
+>>> match: administer_VB
+-------------
+sentence: As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, mesalazine, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent thioguanine therapy.    
+entities: mesalazine / thioguanine
+ddi: mechanism
+>>> match: administer_VB
+-------------
+sentence: As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, mesalazine, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent thioguanine therapy.    
+entities: sulphasalazine / thioguanine
+ddi: mechanism
+>>> match: administer_VB
+-------------
+sentence: For example, when vitamin K antagonists are administered concomitantly with nilutamide, prothrombin time should be carefully monitored and if necessary, the dosage of vitamin K antagonists should be reduced.
+entities: vitamin K antagonists / vitamin K antagonists
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: For example, when vitamin K antagonists are administered concomitantly with nilutamide, prothrombin time should be carefully monitored and if necessary, the dosage of vitamin K antagonists should be reduced.
+entities: nilutamide / vitamin K antagonists
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Although clinical studies have not been performed, based on the involvement of the cytochrome P-450 3A family in clonazepam metabolism, inhibitors of this enzyme system, notably oral antifungal agents, should be used cautiously in patients receiving clonazepam.
+entities: clonazepam / antifungal agents
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Although clinical studies have not been performed, based on the involvement of the cytochrome P-450 3A family in clonazepam metabolism, inhibitors of this enzyme system, notably oral antifungal agents, should be used cautiously in patients receiving clonazepam.
+entities: clonazepam / clonazepam
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Although clinical studies have not been performed, based on the involvement of the cytochrome P-450 3A family in clonazepam metabolism, inhibitors of this enzyme system, notably oral antifungal agents, should be used cautiously in patients receiving clonazepam.
+entities: antifungal agents / clonazepam
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ALLEGRA should not be taken closely in time with aluminum and magnesium containing antacids.
+entities: ALLEGRA / aluminum
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: ALLEGRA should not be taken closely in time with aluminum and magnesium containing antacids.
+entities: ALLEGRA / magnesium
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: ALLEGRA should not be taken closely in time with aluminum and magnesium containing antacids.
+entities: ALLEGRA / antacids
+ddi: null
+>>> match: take_VB
+-------------
+sentence: The duration of the period following treatment with AMEVIVE  before one should consider starting other immunosuppressive therapy has not been evaluated.
+entities: AMEVIVE / immunosuppressive
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: When cholestyramine resin is given for long periods of time, concomitant supplementation with water-miscible (or parenteral) forms of fat-soluble vitamins should be considered.
+entities: cholestyramine / fat-soluble vitamins
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: When cholestyramine resin is given for long periods of time, concomitant supplementation with water-miscible (or parenteral) forms of fat-soluble vitamins should be considered.
+entities: resin / fat-soluble vitamins
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Administration of a higher dose of indinavir should be considered when coadministering with megestrol acetate. 
+entities: indinavir / megestrol acetate
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: a reduction of the doxorubicin dosage should be considered in patients receiving ZANOSAR concurrently. 
+entities: doxorubicin / ZANOSAR
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: After stopping Fluvoxamine Tablets, at least 2 weeks should be allowed before starting a MAOI.
+entities: Fluvoxamine / MAOI
+ddi: advise
+>>> match: allow_VB
+-------------
+sentence: Other Potentially Important Drug Interactions: Benzodiazepines: Benzodiazepines metabolized by hepatic oxidation (e.g., alprazolam, midazolam, triazolam elc.) should be used with caution because the clearance of these drugs is likely to be reduced by fluvoxamine.
+entities: Benzodiazepines / fluvoxamine
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Other Potentially Important Drug Interactions: Benzodiazepines: Benzodiazepines metabolized by hepatic oxidation (e.g., alprazolam, midazolam, triazolam elc.) should be used with caution because the clearance of these drugs is likely to be reduced by fluvoxamine.
+entities: Benzodiazepines / fluvoxamine
+ddi: mechanism
+>>> match: use_VB
+-------------
+sentence: Other Potentially Important Drug Interactions: Benzodiazepines: Benzodiazepines metabolized by hepatic oxidation (e.g., alprazolam, midazolam, triazolam elc.) should be used with caution because the clearance of these drugs is likely to be reduced by fluvoxamine.
+entities: alprazolam / fluvoxamine
+ddi: mechanism
+>>> match: use_VB
+-------------
+sentence: Other Potentially Important Drug Interactions: Benzodiazepines: Benzodiazepines metabolized by hepatic oxidation (e.g., alprazolam, midazolam, triazolam elc.) should be used with caution because the clearance of these drugs is likely to be reduced by fluvoxamine.
+entities: midazolam / fluvoxamine
+ddi: mechanism
+>>> match: use_VB
+-------------
+sentence: Other Potentially Important Drug Interactions: Benzodiazepines: Benzodiazepines metabolized by hepatic oxidation (e.g., alprazolam, midazolam, triazolam elc.) should be used with caution because the clearance of these drugs is likely to be reduced by fluvoxamine.
+entities: triazolam / fluvoxamine
+ddi: mechanism
+>>> match: use_VB
+-------------
+sentence: This interaction, which has not been investigated using higher doses of fluvoxamine, may be more pronounced if a 300 mg daily dose is co-administered, particularly since fluvoxamine exhibits non-linear pharmacokinetics over the dosage range 100-300 mg. If alprazolam is co-administered with Fluvoxamine Tablets, the initial alprazolam dosage should be at least halved and titration to the lowest effective dose is recommended.
+entities: alprazolam / alprazolam
+ddi: null
+>>> match: halve_VB
+-------------
+sentence: This interaction, which has not been investigated using higher doses of fluvoxamine, may be more pronounced if a 300 mg daily dose is co-administered, particularly since fluvoxamine exhibits non-linear pharmacokinetics over the dosage range 100-300 mg. If alprazolam is co-administered with Fluvoxamine Tablets, the initial alprazolam dosage should be at least halved and titration to the lowest effective dose is recommended.
+entities: Fluvoxamine / alprazolam
+ddi: null
+>>> match: halve_VB
+-------------
+sentence: Therefore, if theophylline is co-administered with fluvoxamine maleate, its dose should be reduced to one third of the usual daily maintenance dose and plasma concentrations of theophylline should to monitored.
+entities: theophylline / theophylline
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: Therefore, if theophylline is co-administered with fluvoxamine maleate, its dose should be reduced to one third of the usual daily maintenance dose and plasma concentrations of theophylline should to monitored.
+entities: fluvoxamine maleate / theophylline
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: Thus patients receiving oral anticoagulants and Fluvoxamine Tablets should have their prothrombin time monitored and their anticoagulant dose adjusted accordingly.
+entities: anticoagulants / anticoagulant
+ddi: null
+>>> match: have_VB
+-------------
+sentence: Thus patients receiving oral anticoagulants and Fluvoxamine Tablets should have their prothrombin time monitored and their anticoagulant dose adjusted accordingly.
+entities: Fluvoxamine / anticoagulant
+ddi: null
+>>> match: have_VB
+-------------
+sentence: Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
+entities: NSAIDs / lithium
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
+entities: lithium / lithium
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances. 
+entities: Pilocarpine / beta adrenergic antagonists
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, monitoring of theophylline plasma levels should be considered and dosage of theophylline adjusted, as required.
+entities: theophylline / theophylline
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: Therefore, cyclosporine serum levels should be monitored and appropriate cyclosporine dosage adjustments made when these drugs are used concomitantly.
+entities: cyclosporine / cyclosporine
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: All vasopressors should be used cautiously in patients taking monoamine oxidase (MAO) inhibitors.
+entities: vasopressors / monoamine oxidase (MAO) inhibitors
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Epinephrine should not be administered concomitantly with other sympathomimetic drugs (such as isoproterenol) because of possible additive effects and increased toxicity.
+entities: Epinephrine / sympathomimetic drugs
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Epinephrine should not be administered concomitantly with other sympathomimetic drugs (such as isoproterenol) because of possible additive effects and increased toxicity.
+entities: Epinephrine / isoproterenol
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Epinephrine also should be used cautiously with other drugs (e.g., digitalis, glycosides) that sensitize the myocardium to the actions of sympathomimetic drugs.
+entities: Epinephrine / digitalis
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Epinephrine also should be used cautiously with other drugs (e.g., digitalis, glycosides) that sensitize the myocardium to the actions of sympathomimetic drugs.
+entities: Epinephrine / glycosides
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Epinephrine also should be used cautiously with other drugs (e.g., digitalis, glycosides) that sensitize the myocardium to the actions of sympathomimetic drugs.
+entities: Epinephrine / sympathomimetic drugs
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Epinephrine also should be used cautiously with other drugs (e.g., digitalis, glycosides) that sensitize the myocardium to the actions of sympathomimetic drugs.
+entities: digitalis / sympathomimetic drugs
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Epinephrine also should be used cautiously with other drugs (e.g., digitalis, glycosides) that sensitize the myocardium to the actions of sympathomimetic drugs.
+entities: glycosides / sympathomimetic drugs
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Patients on rifampin should receive 70 mg of CANCIDAS daily.
+entities: rifampin / CANCIDAS
+ddi: advise
+>>> match: receive_VB
+-------------
+sentence: Isocarboxazid should be administered with caution to patients receiving Antabuse (disulfiram, Wyeth-Ayerst Laboratories).
+entities: Isocarboxazid / Antabuse
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Isocarboxazid should be administered with caution to patients receiving Antabuse (disulfiram, Wyeth-Ayerst Laboratories).
+entities: Isocarboxazid / disulfiram
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Patients receiving antibiotics and sulfonamides generally should not be treated with ganglion blockers.  
+entities: antibiotics / ganglion blockers
+ddi: advise
+>>> match: treat_VB
+-------------
+sentence: Patients receiving antibiotics and sulfonamides generally should not be treated with ganglion blockers.  
+entities: sulfonamides / ganglion blockers
+ddi: advise
+>>> match: treat_VB
+-------------
+sentence: For comprehensive information concerning laboratory test alterations associated with ritonavir, physicians should refer to the complete prescribing information for NORVIR (ritonavir).
+entities: ritonavir / NORVIR
+ddi: null
+>>> match: refer_VB
+-------------
+sentence: For comprehensive information concerning laboratory test alterations associated with ritonavir, physicians should refer to the complete prescribing information for NORVIR (ritonavir).
+entities: ritonavir / ritonavir
+ddi: null
+>>> match: refer_VB
+-------------
+sentence: NSAIDs should be used with caution in patients taking cyclosporine, and renal function should be carefully monitored.
+entities: NSAIDs / cyclosporine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: As a consequence, when INDOCIN and lithium are given concomitantly, the patient should be carefully observed for signs of lithium toxicity.
+entities: INDOCIN / lithium
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: As a consequence, when INDOCIN and lithium are given concomitantly, the patient should be carefully observed for signs of lithium toxicity.
+entities: lithium / lithium
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Therefore, when INDOCIN and digoxin are used concomitantly, serum digoxin levels should be closely monitored.
+entities: INDOCIN / digoxin
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Therefore, when INDOCIN and digoxin are used concomitantly, serum digoxin levels should be closely monitored.
+entities: digoxin / digoxin
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Therefore, when meclofenamate sodium is given to a patient receiving warfarin, the dosage of warfarin should be reduced to prevent excessive prolongation of the prothrombin time.
+entities: meclofenamate sodium / warfarin
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: Therefore, when meclofenamate sodium is given to a patient receiving warfarin, the dosage of warfarin should be reduced to prevent excessive prolongation of the prothrombin time.
+entities: warfarin / warfarin
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: Therefore, ketoconazole should be administered with caution with intranasal ciclesonide.
+entities: ketoconazole / ciclesonide
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Caution should be exercised during the administration of adrenaline to patients anaesthetised with FLUOTHANE as arrhythmias may be precipitated.
+entities: adrenaline / FLUOTHANE
+ddi: advise
+>>> match: exercise_VB
+-------------
+sentence: For this reason the dose of adrenaline should be restricted and an antiarrhythmic agent administered as appropriate.
+entities: adrenaline / antiarrhythmic agent
+ddi: null
+>>> match: restrict_VB
+-------------
+sentence: Caution should also be applied for other sympathomimetics, and for aminophylline and theophylline and tricyclic antidepressants, which may also precipitate arrhythmias.
+entities: sympathomimetics / aminophylline
+ddi: null
+>>> match: apply_VB
+-------------
+sentence: Caution should also be applied for other sympathomimetics, and for aminophylline and theophylline and tricyclic antidepressants, which may also precipitate arrhythmias.
+entities: sympathomimetics / theophylline
+ddi: null
+>>> match: apply_VB
+-------------
+sentence: Caution should also be applied for other sympathomimetics, and for aminophylline and theophylline and tricyclic antidepressants, which may also precipitate arrhythmias.
+entities: sympathomimetics / tricyclic antidepressants
+ddi: null
+>>> match: apply_VB
+-------------
+sentence: Aspirin should be used cautiously in conjunction with corticosteroids in patients suffering from hypoprothrombinemia. 
+entities: Aspirin / corticosteroids
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: desipramine hydrochloride / desipramine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: desipramine hydrochloride / benzodiazepines
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: desipramine hydrochloride / chlordiazepoxide
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: desipramine hydrochloride / diazepam
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: psychotropic agents / desipramine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: psychotropic agents / benzodiazepines
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: psychotropic agents / chlordiazepoxide
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: psychotropic agents / diazepam
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: tranquilizers / desipramine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: tranquilizers / benzodiazepines
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: tranquilizers / chlordiazepoxide
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: tranquilizers / diazepam
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: sedative / desipramine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: sedative / benzodiazepines
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: sedative / chlordiazepoxide
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: sedative / diazepam
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: hypnotics / desipramine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: hypnotics / benzodiazepines
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: hypnotics / chlordiazepoxide
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: hypnotics / diazepam
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: desipramine / chlordiazepoxide
+ddi: effect
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: desipramine / diazepam
+ddi: effect
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: benzodiazepines / chlordiazepoxide
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If desipramine hydrochloride is to be combined with other psychotropic agents such as tranquilizers or sedative/hypnotics, careful consideration should be given to the pharmacology of the agents employed since the sedative effects of desipramine and benzodiazepines (e.g., chlordiazepoxide or diazepam) are additive.
+entities: benzodiazepines / diazepam
+ddi: null
+>>> match: give_VB
+-------------
+sentence: Since chronic dosing is required for therapeutic efficacy of antipsychotics, future studies should focus on investigation of chronic dosing effects of these drugs in combination with PCP.
+entities: antipsychotics / PCP
+ddi: null
+>>> match: focus_VB
+-------------
+sentence: When concomitant administration of either of these two drugs with mexiletine is initiated, the dose of mexiletine should be slowly titrated to desired effect. 
+entities: mexiletine / mexiletine
+ddi: null
+>>> match: titrate_VB
+-------------
+sentence: This increase was observed at the first test point which was the second day after starting Mexitil   . Theophylline plasma levels returned to pre-Mexitil    values within 48 hours after discontinuing Mexitil   . If Mexitil and theophylline are to be used concurrently, theophylline blood levels should be monitored, particularly when the Mexitil    dose is changed. 
+entities: Mexitil / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: This increase was observed at the first test point which was the second day after starting Mexitil   . Theophylline plasma levels returned to pre-Mexitil    values within 48 hours after discontinuing Mexitil   . If Mexitil and theophylline are to be used concurrently, theophylline blood levels should be monitored, particularly when the Mexitil    dose is changed. 
+entities: Mexitil / Mexitil
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: This increase was observed at the first test point which was the second day after starting Mexitil   . Theophylline plasma levels returned to pre-Mexitil    values within 48 hours after discontinuing Mexitil   . If Mexitil and theophylline are to be used concurrently, theophylline blood levels should be monitored, particularly when the Mexitil    dose is changed. 
+entities: theophylline / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: This increase was observed at the first test point which was the second day after starting Mexitil   . Theophylline plasma levels returned to pre-Mexitil    values within 48 hours after discontinuing Mexitil   . If Mexitil and theophylline are to be used concurrently, theophylline blood levels should be monitored, particularly when the Mexitil    dose is changed. 
+entities: theophylline / Mexitil
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: This increase was observed at the first test point which was the second day after starting Mexitil   . Theophylline plasma levels returned to pre-Mexitil    values within 48 hours after discontinuing Mexitil   . If Mexitil and theophylline are to be used concurrently, theophylline blood levels should be monitored, particularly when the Mexitil    dose is changed. 
+entities: theophylline / Mexitil
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Usage with Alcohol: Due to the potential for increased CNS depressants effects, alcohol should be used with caution in patients who are currently receiving pentazocine.
+entities: alcohol / pentazocine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: DIDREX should not be used concomitantly with other CNS stimulants.
+entities: DIDREX / CNS stimulants
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Apraclonidine should not be used in patients receiving MAO inhibitors..
+entities: Apraclonidine / MAO inhibitors
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: For this reason, the dose of the anticoagulant should be reduced by 30 - 50% at the start of treatment with Bezalip or Bezalip retard and then titrated according to the blood clotting parameters
+entities: anticoagulant / Bezalip
+ddi: advise
+>>> match: reduce_VB
+-------------
+sentence: For this reason, the dose of the anticoagulant should be reduced by 30 - 50% at the start of treatment with Bezalip or Bezalip retard and then titrated according to the blood clotting parameters
+entities: anticoagulant / Bezalip
+ddi: advise
+>>> match: reduce_VB
+-------------
+sentence: If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, intraconazole, ritonavir, indinavir, saquinavir, erythromycin, etc.) is indicated, reduction of the budesonide dose should be considered.
+entities: ketoconazole / budesonide
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, intraconazole, ritonavir, indinavir, saquinavir, erythromycin, etc.) is indicated, reduction of the budesonide dose should be considered.
+entities: intraconazole / budesonide
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, intraconazole, ritonavir, indinavir, saquinavir, erythromycin, etc.) is indicated, reduction of the budesonide dose should be considered.
+entities: ritonavir / budesonide
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, intraconazole, ritonavir, indinavir, saquinavir, erythromycin, etc.) is indicated, reduction of the budesonide dose should be considered.
+entities: indinavir / budesonide
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, intraconazole, ritonavir, indinavir, saquinavir, erythromycin, etc.) is indicated, reduction of the budesonide dose should be considered.
+entities: saquinavir / budesonide
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, intraconazole, ritonavir, indinavir, saquinavir, erythromycin, etc.) is indicated, reduction of the budesonide dose should be considered.
+entities: erythromycin / budesonide
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: Cimetidine treatment should be stopped during treatment with ELLENCE.
+entities: Cimetidine / ELLENCE
+ddi: advise
+>>> match: stop_VB
+-------------
+sentence: Hypersensitivity Reactions: Patients with a history of severe hypersensitivity reactions to products containing Cremophor  EL (eg, cyclosporin for injection concentrate and teniposide for injection concentrate) should not be treated with TAXOL.
+entities: cyclosporin / TAXOL
+ddi: advise
+>>> match: treat_VB
+-------------
+sentence: Hypersensitivity Reactions: Patients with a history of severe hypersensitivity reactions to products containing Cremophor  EL (eg, cyclosporin for injection concentrate and teniposide for injection concentrate) should not be treated with TAXOL.
+entities: teniposide / TAXOL
+ddi: advise
+>>> match: treat_VB
+-------------
+sentence: Although ibuprofen (400 mg qid) can be administered with ALIMTA in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min). 
+entities: ibuprofen / ibuprofen
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Although ibuprofen (400 mg qid) can be administered with ALIMTA in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min). 
+entities: ibuprofen / ALIMTA
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Although ibuprofen (400 mg qid) can be administered with ALIMTA in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min). 
+entities: ALIMTA / ibuprofen
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Although ibuprofen (400 mg qid) can be administered with ALIMTA in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min). 
+entities: ALIMTA / ALIMTA
+ddi: null
+>>> match: use_VB
+-------------
+sentence: In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration. 
+entities: ALIMTA / NSAIDs
+ddi: null
+>>> match: interrupt_VB
+-------------
+sentence: In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration. 
+entities: ALIMTA / ALIMTA
+ddi: null
+>>> match: interrupt_VB
+-------------
+sentence: In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration. 
+entities: NSAIDs / NSAIDs
+ddi: null
+>>> match: interrupt_VB
+-------------
+sentence: In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration. 
+entities: NSAIDs / ALIMTA
+ddi: null
+>>> match: interrupt_VB
+-------------
+sentence: In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration. 
+entities: NSAIDs / ALIMTA
+ddi: advise
+>>> match: interrupt_VB
+-------------
+sentence: If additional adrenergic drugs are to be administered by any route, they should be used with caution because the pharmacologically predictable sympathetic effects of BROVANA may be potentiated.
+entities: adrenergic drugs / BROVANA
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: BROVANA / beta2-agonists
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: BROVANA / monoamine oxidase inhibitors
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: BROVANA / tricyclic antidepressants
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: BROVANA / adrenergic agonists
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: beta2-agonists / monoamine oxidase inhibitors
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: beta2-agonists / tricyclic antidepressants
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: beta2-agonists / adrenergic agonists
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: monoamine oxidase inhibitors / tricyclic antidepressants
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: BROVANA, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+entities: monoamine oxidase inhibitors / adrenergic agonists
+ddi: effect
+>>> match: administer_VB
+-------------
+sentence: Patients receiving antihistamines should be advised against the concurrent use of other CNS depressant drugs.
+entities: antihistamines / CNS depressant drugs
+ddi: advise
+>>> match: advise_VB
+-------------
+sentence: Coadministration of SULAR with phenytoin or any known CYP3A4 inducer should be avoided and alternative antihypertensive therapy should be considered.
+entities: SULAR / antihypertensive
+ddi: null
+>>> match: avoid_VB
+-------------
+sentence: Coadministration of SULAR with phenytoin or any known CYP3A4 inducer should be avoided and alternative antihypertensive therapy should be considered.
+entities: phenytoin / antihypertensive
+ddi: null
+>>> match: avoid_VB
+-------------
+sentence: Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.
+entities: TORADOL / TORADOL
+ddi: null
+>>> match: do_VB
+-------------
+sentence: Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.
+entities: TORADOL / anticoagulants
+ddi: null
+>>> match: do_VB
+-------------
+sentence: Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.
+entities: warfarin / TORADOL
+ddi: null
+>>> match: do_VB
+-------------
+sentence: Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.
+entities: warfarin / anticoagulants
+ddi: null
+>>> match: do_VB
+-------------
+sentence: Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.
+entities: heparin / TORADOL
+ddi: null
+>>> match: do_VB
+-------------
+sentence: Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.
+entities: heparin / anticoagulants
+ddi: null
+>>> match: do_VB
+-------------
+sentence: Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: Lithium / diuretics
+ddi: mechanism
+>>> match: give_VB
+-------------
+sentence: Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: Lithium / lithium
+ddi: null
+>>> match: give_VB
+-------------
+sentence: Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: diuretics / lithium
+ddi: null
+>>> match: give_VB
+-------------
+sentence: Therefore, when EDECRIN and non- steroidal anti- inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+entities: EDECRIN / diuretic
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Therefore, when EDECRIN and non- steroidal anti- inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+entities: non- steroidal anti- inflammatory agents / diuretic
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: ketoconazole / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: ketoconazole / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: macrolide antibiotics / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: macrolide antibiotics / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: erythromycin / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: erythromycin / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: HIV protease inhibitors / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: HIV protease inhibitors / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: ritonavir / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: ritonavir / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: indinavir / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: indinavir / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: saquinavir / SUBUTEX
+ddi: null
+>>> match: have_VB
+-------------
+sentence: ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.
+entities: saquinavir / SUBOXONE
+ddi: null
+>>> match: have_VB
+-------------
+sentence: SUBUTEX and SUBOXONE should be prescribed with caution to patients on benzodiazepines or other drugs that act on the central nervous system, regardless of whether these drugs are taken on the advice of a physician or are taken as drugs of abuse.
+entities: SUBUTEX / benzodiazepines
+ddi: advise
+>>> match: prescribe_VB
+-------------
+sentence: SUBUTEX and SUBOXONE should be prescribed with caution to patients on benzodiazepines or other drugs that act on the central nervous system, regardless of whether these drugs are taken on the advice of a physician or are taken as drugs of abuse.
+entities: SUBOXONE / benzodiazepines
+ddi: advise
+>>> match: prescribe_VB
+-------------
+sentence: Patients should be warned of the potential danger of the intravenous self-administration of benzodiazepines while under treatment with SUBOXONE or SUBUTEX.
+entities: benzodiazepines / SUBOXONE
+ddi: advise
+>>> match: warn_VB
+-------------
+sentence: Patients should be warned of the potential danger of the intravenous self-administration of benzodiazepines while under treatment with SUBOXONE or SUBUTEX.
+entities: benzodiazepines / SUBUTEX
+ddi: advise
+>>> match: warn_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: chlorprothixene / opioid
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: chlorprothixene / chlorprothixene
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: chlorprothixene / opioids
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: opioids / opioid
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: opioids / chlorprothixene
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: opioids / opioids
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: opioid / chlorprothixene
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.
+entities: opioid / opioids
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: Dopamine antagonists / Permax
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: Dopamine antagonists / dopamine agonist
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: neuroleptics / Permax
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: neuroleptics / dopamine agonist
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: phenothiazines / Permax
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: phenothiazines / dopamine agonist
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: butyrophenones / Permax
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: butyrophenones / dopamine agonist
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: thioxanthines / Permax
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: thioxanthines / dopamine agonist
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: metoclopramide / Permax
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Dopamine antagonists, such as the neuroleptics (phenothiazines, butyrophenones, thioxanthines ) or metoclopramide, ordinarily should not be administered concurrently with Permax (a dopamine agonist); 
+entities: metoclopramide / dopamine agonist
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Because pergolide mesylate is approximately 90% bound to plasma proteins, caution should be exercised if pergolide mesylate is coadministered with other drugs known to affect protein binding.
+entities: pergolide mesylate / pergolide mesylate
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Alternatives to rifampin should be considered during the course of PCP treatment with MEPRON.
+entities: rifampin / MEPRON
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: Ibandronate should be taken at least 60 minutes before any oral medications containing multivalent cations (including antacids, supplements or vitamins).
+entities: Ibandronate / antacids
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Ibandronate should be taken at least 60 minutes before any oral medications containing multivalent cations (including antacids, supplements or vitamins).
+entities: Ibandronate / vitamins
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.
+entities: Agonist/antagonist analgesics / Levo-Dromoran
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.
+entities: pentazocine / Levo-Dromoran
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.
+entities: nalbuphine / Levo-Dromoran
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.
+entities: butorphanol / Levo-Dromoran
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.
+entities: dezocine / Levo-Dromoran
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.
+entities: buprenorphine / Levo-Dromoran
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Drugs Whose Absorption Can Be Affected by the Level of Acidity in the Stomach: Drugs such as ketoconazole and itraconazole should be administered at least 2 hours prior to dosing with VIDEX.
+entities: ketoconazole / VIDEX
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Drugs Whose Absorption Can Be Affected by the Level of Acidity in the Stomach: Drugs such as ketoconazole and itraconazole should be administered at least 2 hours prior to dosing with VIDEX.
+entities: itraconazole / VIDEX
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: VIDEX / ciprofloxacin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: VIDEX / ciprofloxacin
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: VIDEX / antacids
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: VIDEX / magnesium
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: VIDEX / calcium
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: VIDEX / aluminum
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: ciprofloxacin / ciprofloxacin
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: ciprofloxacin / antacids
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: ciprofloxacin / magnesium
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: ciprofloxacin / calcium
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Quinolone Antibiotics: VIDEX should be administered at least 2 hours after or 6 hours before dosing with ciprofloxacin because plasma concentrations of ciprofloxacin are decreased when administered with antacids containing magnesium, calcium, or aluminum.
+entities: ciprofloxacin / aluminum
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: The optimal dosing interval for coadministration with VIDEX should be determined by consulting the appropriate quinolone package insert.
+entities: VIDEX / quinolone
+ddi: null
+>>> match: determine_VB
+-------------
+sentence: Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
+entities: diltiazem / cimetidine
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: If these agents are to be administered concurrently, cyclosporine concentrations should be monitored, especially when diltiazem therapy is initiated, adjusted, or discontinued.
+entities: cyclosporine / diltiazem
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: However, theophylline plasma concentrations should be monitored, with dosage adjustment as appropriate, in patients whose pulmonary disease requires maintaining a given theophylline plasma concentration for optimal pulmonary function or in patients with theophylline concentrations at the higher end of the therapeutic range.
+entities: theophylline / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: However, theophylline plasma concentrations should be monitored, with dosage adjustment as appropriate, in patients whose pulmonary disease requires maintaining a given theophylline plasma concentration for optimal pulmonary function or in patients with theophylline concentrations at the higher end of the therapeutic range.
+entities: theophylline / theophylline
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Therefore, when Hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+entities: Hydrochlorothiazide / diuretic
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Therefore, when Hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+entities: non-steroidal anti-inflammatory agents / diuretic
+ddi: null
+>>> match: observe_VB
+-------------
+sentence: Netilmicin should not be administered concomitantly with potent loop diuretics such as furosemide and ethacrynic acid as the potential for ototoxicity is enhanced by the combination.
+entities: Netilmicin / loop diuretics
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Netilmicin should not be administered concomitantly with potent loop diuretics such as furosemide and ethacrynic acid as the potential for ototoxicity is enhanced by the combination.
+entities: Netilmicin / furosemide
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Netilmicin should not be administered concomitantly with potent loop diuretics such as furosemide and ethacrynic acid as the potential for ototoxicity is enhanced by the combination.
+entities: Netilmicin / ethacrynic acid
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: - Lithium: Lithium should generally not be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: Lithium / diuretics
+ddi: advise
+>>> match: give_VB
+-------------
+sentence: - Lithium: Lithium should generally not be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: Lithium / bumetanide
+ddi: advise
+>>> match: give_VB
+-------------
+sentence: - Lithium: Lithium should generally not be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: Lithium / lithium
+ddi: null
+>>> match: give_VB
+-------------
+sentence: - Lithium: Lithium should generally not be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: diuretics / lithium
+ddi: null
+>>> match: give_VB
+-------------
+sentence: - Lithium: Lithium should generally not be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity.
+entities: bumetanide / lithium
+ddi: null
+>>> match: give_VB
+-------------
+sentence: Thus, probenecid should not be administered concurrently with bumetanide.
+entities: probenecid / bumetanide
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.
+entities: Azlocillin / amikacin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.
+entities: Azlocillin / ciprofloxacin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.
+entities: Azlocillin / gentamicin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.
+entities: Azlocillin / netilmicin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.
+entities: Azlocillin / tobramycin
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 
+entities: alcohol / Diazepam
+ddi: null
+>>> match: advise_VB
+-------------
+sentence: Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 
+entities: alcohol / diazepam
+ddi: null
+>>> match: advise_VB
+-------------
+sentence: Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 
+entities: alcohol / mirtazapine
+ddi: null
+>>> match: advise_VB
+-------------
+sentence: Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 
+entities: REMERON SolTab / Diazepam
+ddi: null
+>>> match: advise_VB
+-------------
+sentence: Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 
+entities: REMERON SolTab / diazepam
+ddi: null
+>>> match: advise_VB
+-------------
+sentence: Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. 
+entities: REMERON SolTab / mirtazapine
+ddi: null
+>>> match: advise_VB
+-------------
+sentence: ZEBETA should not be combined with other beta-blocking agents.
+entities: ZEBETA / beta-blocking agents
+ddi: advise
+>>> match: combine_VB
+-------------
+sentence: Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of ZEBETA may produce excessive reduction of sympathetic activity.
+entities: reserpine / ZEBETA
+ddi: effect
+>>> match: monitor_VB
+-------------
+sentence: Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of ZEBETA may produce excessive reduction of sympathetic activity.
+entities: guanethidine / ZEBETA
+ddi: effect
+>>> match: monitor_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / myocardial depressants
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / calcium antagonists
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / phenylalkylamine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / verapamil
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / benzothiazepine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / diltiazem
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / antiarrhythmic agents
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+entities: ZEBETA / disopyramide
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: When methyldopa and lithium are given concomitantly the patient should be carefully monitored for symptoms of lithium toxicity. 
+entities: methyldopa / lithium
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: When methyldopa and lithium are given concomitantly the patient should be carefully monitored for symptoms of lithium toxicity. 
+entities: lithium / lithium
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Following the administration of INAPSINE, the dose of other CNS depressant drugs should be reduced.
+entities: INAPSINE / CNS depressant drugs
+ddi: advise
+>>> match: reduce_VB
+-------------
+sentence: However, because some quinolones have been reported to enhance the anticoagulant effects of warfarin or its derivatives in patients, the prothrombin time or other suitable coagulation test should be closely monitored if a quinolone antimicrobial is administered concomitantly with warfarin or its derivatives.
+entities: quinolones / quinolone antimicrobial
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: However, because some quinolones have been reported to enhance the anticoagulant effects of warfarin or its derivatives in patients, the prothrombin time or other suitable coagulation test should be closely monitored if a quinolone antimicrobial is administered concomitantly with warfarin or its derivatives.
+entities: quinolones / warfarin
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: However, because some quinolones have been reported to enhance the anticoagulant effects of warfarin or its derivatives in patients, the prothrombin time or other suitable coagulation test should be closely monitored if a quinolone antimicrobial is administered concomitantly with warfarin or its derivatives.
+entities: warfarin / quinolone antimicrobial
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: However, because some quinolones have been reported to enhance the anticoagulant effects of warfarin or its derivatives in patients, the prothrombin time or other suitable coagulation test should be closely monitored if a quinolone antimicrobial is administered concomitantly with warfarin or its derivatives.
+entities: warfarin / warfarin
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: Magnesium / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: aluminum / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: antacids / FACTIVE
+ddi: null
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: ferrous sulfate / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: iron / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: multivitamin preparations / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: zinc / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: Videx / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Magnesium- and/or aluminum-containing antacids, products containing ferrous sulfate (iron), multivitamin preparations containing zinc or other metal cations, or Videx (didanosine) chewable/buffered tablets or the pediatric powder for oral solution should not be taken within 3 hours before or 2 hours after FACTIVE.
+entities: didanosine / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Sucralfate should not be taken within 2 hours of FACTIVE.
+entities: Sucralfate / FACTIVE
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: Scopolamine should be used with care in patients taking other drugs that are capable of causing CNS effects such as sedatives, tranquilizers, or alcohol. 
+entities: Scopolamine / sedatives
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Scopolamine should be used with care in patients taking other drugs that are capable of causing CNS effects such as sedatives, tranquilizers, or alcohol. 
+entities: Scopolamine / tranquilizers
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Scopolamine should be used with care in patients taking other drugs that are capable of causing CNS effects such as sedatives, tranquilizers, or alcohol. 
+entities: Scopolamine / alcohol
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: A 5-mg Vardenafil dose should not be exceeded when used in combination with 200 mg once daily ketoconazole.
+entities: Vardenafil / ketoconazole
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: Since higher doses of ketoconazole (400 mg daily) may result in higher increases in Cmax and AUC, a single 2.5 mg dose of Vardenafil should not be exceeded in a 24-hour period when used in combination with ketoconazole 400 mg daily.
+entities: Vardenafil / ketoconazole
+ddi: advise
+>>> match: exceed_VB
+-------------
+sentence: Based on these data, Vardenafil should not be used in patients on alpha-blocker therapy.
+entities: Vardenafil / alpha-blocker
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Co-administration of BOTOX and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., curare-like compounds) should only be performed with caution as the effect of the toxin may be potentiated.
+entities: BOTOX / toxin
+ddi: null
+>>> match: perform_VB
+-------------
+sentence: Co-administration of BOTOX and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., curare-like compounds) should only be performed with caution as the effect of the toxin may be potentiated.
+entities: aminoglycosides / toxin
+ddi: null
+>>> match: perform_VB
+-------------
+sentence: Co-administration of BOTOX and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., curare-like compounds) should only be performed with caution as the effect of the toxin may be potentiated.
+entities: curare-like compounds / toxin
+ddi: null
+>>> match: perform_VB
+-------------
+sentence: Anafranil should not be used with MAO inhibitors.
+entities: Anafranil / MAO inhibitors
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one-tenth (1/10) of the usual dose.
+entities: MAO inhibitors / dopamine HCl
+ddi: null
+>>> match: receive_VB
+-------------
+sentence: Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one-tenth (1/10) of the usual dose.
+entities: dopamine HCl / dopamine HCl
+ddi: null
+>>> match: receive_VB
+-------------
+sentence: It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed.
+entities: dopamine HCl / phenytoin
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed.
+entities: dopamine HCl / anticonvulsant
+ddi: null
+>>> match: use_VB
+-------------
+sentence: It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed.
+entities: phenytoin / anticonvulsant
+ddi: null
+>>> match: use_VB
+-------------
+sentence: It is recommended that if CASODEX is started in patients already receiving coumarin anticoagulants, prothrombin times should be closely monitored and adjustment of the anticoagulant dose may be necessary.
+entities: CASODEX / anticoagulant
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: It is recommended that if CASODEX is started in patients already receiving coumarin anticoagulants, prothrombin times should be closely monitored and adjustment of the anticoagulant dose may be necessary.
+entities: coumarin anticoagulants / anticoagulant
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: TOBI should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
+entities: TOBI / ethacrynic acid
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: TOBI should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
+entities: TOBI / furosemide
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: TOBI should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
+entities: TOBI / urea
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: TOBI should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
+entities: TOBI / mannitol
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: If antacids are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the antacid.
+entities: antacids / OMNICEF
+ddi: null
+>>> match: take_VB
+-------------
+sentence: If antacids are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the antacid.
+entities: antacids / antacid
+ddi: null
+>>> match: take_VB
+-------------
+sentence: If antacids are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the antacid.
+entities: OMNICEF / OMNICEF
+ddi: null
+>>> match: take_VB
+-------------
+sentence: If antacids are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the antacid.
+entities: OMNICEF / antacid
+ddi: null
+>>> match: take_VB
+-------------
+sentence: If antacids are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the antacid.
+entities: OMNICEF / antacid
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: If iron supplements are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the supplement.
+entities: iron supplements / OMNICEF
+ddi: advise
+>>> match: take_VB
+-------------
+sentence: If iron supplements are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the supplement.
+entities: OMNICEF / OMNICEF
+ddi: null
+>>> match: take_VB
+-------------
+sentence: In patients receiving treatment with SPRYCEL, close monitoring for toxicity and a SPRYCEL dose reduction should be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided.
+entities: SPRYCEL / SPRYCEL
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: If SPRYCEL must be administered with a CYP3A4 inducer, a dose increase in SPRYCEL should be considered.
+entities: SPRYCEL / SPRYCEL
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: If antacid therapy is needed, the antacid dose should be administered at least 2 hours prior to or 2 hours after the dose of SPRYCEL.
+entities: antacid / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.
+entities: antacids / H2 blockers
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.
+entities: antacids / proton pump inhibitors
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.
+entities: antacids / SPRYCEL
+ddi: null
+>>> match: consider_VB
+-------------
+sentence: The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.
+entities: H2 blockers / SPRYCEL
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.
+entities: proton pump inhibitors / SPRYCEL
+ddi: advise
+>>> match: consider_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: alfentanil / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: astemizole / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: terfenadine / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: cisapride / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: cyclosporine / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: fentanyl / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: pimozide / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: quinidine / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: sirolimus / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: tacrolimus / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: ergot alkaloids / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: ergotamine / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.
+entities: dihydroergotamine / SPRYCEL
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Cyclosporine, tacrolimus and digoxin concentrations should be monitored at the initiation of Itraconazole therapy and frequently thereafter, and the dose of these three drug products adjusted appropriately.
+entities: Cyclosporine / Itraconazole
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: Cyclosporine, tacrolimus and digoxin concentrations should be monitored at the initiation of Itraconazole therapy and frequently thereafter, and the dose of these three drug products adjusted appropriately.
+entities: tacrolimus / Itraconazole
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: Cyclosporine, tacrolimus and digoxin concentrations should be monitored at the initiation of Itraconazole therapy and frequently thereafter, and the dose of these three drug products adjusted appropriately.
+entities: digoxin / Itraconazole
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: therefore, plasma concentrations of phenytoin should also be monitored when it is given concurrently with Itraconazole.
+entities: phenytoin / Itraconazole
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: Itraconazole plasma concentrations should be monitored when Itraconazole and isoniazid are coadministered.
+entities: Itraconazole / Itraconazole
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Itraconazole plasma concentrations should be monitored when Itraconazole and isoniazid are coadministered.
+entities: Itraconazole / isoniazid
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Other beta adrenergic aerosol bronchodilators should not be used concomitantly with Alupent    (metaproterenol sulfate USP) because they may have additive effects. 
+entities: beta adrenergic aerosol bronchodilators / Alupent
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Other beta adrenergic aerosol bronchodilators should not be used concomitantly with Alupent    (metaproterenol sulfate USP) because they may have additive effects. 
+entities: beta adrenergic aerosol bronchodilators / metaproterenol sulfate
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.
+entities: Beta adrenergic agonists / monoamine oxidase inhibitors
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.
+entities: Beta adrenergic agonists / tricyclic antidepressants
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.
+entities: Beta adrenergic agonists / beta adrenergic agonists
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.
+entities: monoamine oxidase inhibitors / beta adrenergic agonists
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.
+entities: tricyclic antidepressants / beta adrenergic agonists
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: If ZEMURON    is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed. 
+entities: ZEMURON / succinylcholine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: If ZEMURON    is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed. 
+entities: succinylcholine / succinylcholine
+ddi: null
+>>> match: give_VB
+-------------
+sentence: In the treatment of acute MI, aspirin, when not otherwise contraindicated, should be administered with Streptokinase ( see below ). 
+entities: aspirin / Streptokinase
+ddi: null
+>>> match: administer_VB
+-------------
+sentence: Auranofin should be avoided by patients with a history of serious reaction to any gold medication, including Solganal and Myochrysine.
+entities: Auranofin / gold medication
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Auranofin should be avoided by patients with a history of serious reaction to any gold medication, including Solganal and Myochrysine.
+entities: Auranofin / Solganal
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Auranofin should be avoided by patients with a history of serious reaction to any gold medication, including Solganal and Myochrysine.
+entities: Auranofin / Myochrysine
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Auranofin should not be used together with penicillamine (Depen, Cuprimine), another arthritis medication.
+entities: Auranofin / penicillamine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Auranofin should not be used together with penicillamine (Depen, Cuprimine), another arthritis medication.
+entities: Auranofin / Depen
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Auranofin should not be used together with penicillamine (Depen, Cuprimine), another arthritis medication.
+entities: Auranofin / Cuprimine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Oral contraceptives and other hormonalmethods of birth control should not be usedas the sole method of contraception inwomen taking nevirapine, since nevirapinemay lower the plasma levels of thesemedications.
+entities: contraceptives / nevirapine
+ddi: advise
+>>> match: useda_VB
+-------------
+sentence: Nevirapine and ketoconazole should not beadministered concomitantly becausedecreases in ketoconazole plasmaconcentrations may reduce the efficacy of the drug.
+entities: Nevirapine / ketoconazole
+ddi: null
+>>> match: beadminister_VB
+-------------
+sentence: Nevirapine and ketoconazole should not beadministered concomitantly becausedecreases in ketoconazole plasmaconcentrations may reduce the efficacy of the drug.
+entities: ketoconazole / ketoconazole
+ddi: null
+>>> match: beadminister_VB
+-------------
+sentence: Nevirapine and rifampin should not beadministered concomitantly becausedecreases in nevirapine plasmaconcentrations may reduce the efficacy ofthe drug.
+entities: Nevirapine / nevirapine
+ddi: null
+>>> match: beadminister_VB
+-------------
+sentence: Nevirapine and rifampin should not beadministered concomitantly becausedecreases in nevirapine plasmaconcentrations may reduce the efficacy ofthe drug.
+entities: rifampin / nevirapine
+ddi: null
+>>> match: beadminister_VB
+-------------
+sentence: MAO inhibitors should be used with caution in patients receiving hydralazine.
+entities: MAO inhibitors / hydralazine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Nicardipine HCl usually does not alter the plasma levels of digoxin, however, serum digoxin levels should be evaluated after concomitant therapy with nicardipine HCl is initiated.
+entities: digoxin / nicardipine HCl
+ddi: advise
+>>> match: evaluate_VB
+-------------
+sentence: Plasma concentrations of cyclosporine should therefore be closely monitored, and its dosage reduced accordingly, in patients treated with nicardipine.
+entities: cyclosporine / nicardipine
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: Anticoagulants: While studies have not shown diclofenac to interact with anticoagulants of the warfarin type, caution should be exercised, nonetheless, since interactions have been seen with other NSAIDs.
+entities: diclofenac / NSAIDs
+ddi: advise
+>>> match: exercise_VB
+-------------
+sentence: Anticoagulants: While studies have not shown diclofenac to interact with anticoagulants of the warfarin type, caution should be exercised, nonetheless, since interactions have been seen with other NSAIDs.
+entities: anticoagulants of the warfarin type / NSAIDs
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Laboratory Tests Response to Plenaxis should be monitored by measuring serum total testosterone concentrations just prior to administration on Day 29 and every 8 weeks thereafter.
+entities: Plenaxis / testosterone
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: These antibiotics should be used in the myasthenic patient only where definitely indicated, and then careful adjustment should be made of adjunctive anticholinesterase dosage.
+entities: antibiotics / anticholinesterase
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Anticoagulants: Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function.
+entities: heparin / anticoagulants
+ddi: null
+>>> match: test_VB
+-------------
+sentence: Consequently, estazolam should be avoided in patients receiving ketoconazole and itraconazole, which are very potent inhibitors of CYP3A.
+entities: estazolam / ketoconazole
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Consequently, estazolam should be avoided in patients receiving ketoconazole and itraconazole, which are very potent inhibitors of CYP3A.
+entities: estazolam / itraconazole
+ddi: advise
+>>> match: avoid_VB
+-------------
+sentence: Although the interactions observed in these studies do not appear to be of major clinical importance, BREVIBLOC should be titrated with caution in patients being treated concurrently with digoxin, morphine, succinylcholine or warfarin.
+entities: BREVIBLOC / digoxin
+ddi: advise
+>>> match: titrate_VB
+-------------
+sentence: Although the interactions observed in these studies do not appear to be of major clinical importance, BREVIBLOC should be titrated with caution in patients being treated concurrently with digoxin, morphine, succinylcholine or warfarin.
+entities: BREVIBLOC / morphine
+ddi: advise
+>>> match: titrate_VB
+-------------
+sentence: Although the interactions observed in these studies do not appear to be of major clinical importance, BREVIBLOC should be titrated with caution in patients being treated concurrently with digoxin, morphine, succinylcholine or warfarin.
+entities: BREVIBLOC / succinylcholine
+ddi: advise
+>>> match: titrate_VB
+-------------
+sentence: Although the interactions observed in these studies do not appear to be of major clinical importance, BREVIBLOC should be titrated with caution in patients being treated concurrently with digoxin, morphine, succinylcholine or warfarin.
+entities: BREVIBLOC / warfarin
+ddi: advise
+>>> match: titrate_VB
+-------------
+sentence: Additionally, BREVIBLOC should not be used to control supraventricular tachycardia in the presence of agents which are vasoconstrictive and inotropic such as dopamine, epinephrine, and norepinephrine because of the danger of blocking cardiac contractility when systemic vascular resistance is high.
+entities: BREVIBLOC / dopamine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Additionally, BREVIBLOC should not be used to control supraventricular tachycardia in the presence of agents which are vasoconstrictive and inotropic such as dopamine, epinephrine, and norepinephrine because of the danger of blocking cardiac contractility when systemic vascular resistance is high.
+entities: BREVIBLOC / epinephrine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Additionally, BREVIBLOC should not be used to control supraventricular tachycardia in the presence of agents which are vasoconstrictive and inotropic such as dopamine, epinephrine, and norepinephrine because of the danger of blocking cardiac contractility when systemic vascular resistance is high.
+entities: BREVIBLOC / norepinephrine
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Therefore, intake of supplemental folic acid should not exceed 1000 micrograms ( g, sometimes mcg) per day to prevent folic acid from masking symptoms of vitamin B12 deficiency.
+entities: folic acid / folic acid
+ddi: null
+>>> match: exceed_VB
+-------------
+sentence: However, since there is an increased risk of bleeding with Xigris, caution should be employed when Xigris is used with other drugs that affect hemostasis.
+entities: Xigris / Xigris
+ddi: null
+>>> match: employ_VB
+-------------
+sentence: therefore, administration of these agents should precede lomefloxacin dosing by 4 hours or follow lomefloxacin dosing by at least 2 hours.
+entities: lomefloxacin / lomefloxacin
+ddi: null
+>>> match: precede_VB
+-------------
+sentence: The oral dexamethasone doses should be reduced by approximately 50% when coadministered with Aprepitant, to achieve exposures of dexamethasone similar to those obtained when it is given without Aprepitant.
+entities: dexamethasone / Aprepitant
+ddi: advise
+>>> match: reduce_VB
+-------------
+sentence: The oral dexamethasone doses should be reduced by approximately 50% when coadministered with Aprepitant, to achieve exposures of dexamethasone similar to those obtained when it is given without Aprepitant.
+entities: dexamethasone / dexamethasone
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The oral dexamethasone doses should be reduced by approximately 50% when coadministered with Aprepitant, to achieve exposures of dexamethasone similar to those obtained when it is given without Aprepitant.
+entities: dexamethasone / Aprepitant
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The oral dexamethasone doses should be reduced by approximately 50% when coadministered with Aprepitant, to achieve exposures of dexamethasone similar to those obtained when it is given without Aprepitant.
+entities: Aprepitant / dexamethasone
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The oral dexamethasone doses should be reduced by approximately 50% when coadministered with Aprepitant, to achieve exposures of dexamethasone similar to those obtained when it is given without Aprepitant.
+entities: Aprepitant / Aprepitant
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / methylprednisolone
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / Aprepitant
+ddi: advise
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / methylprednisolone
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / Aprepitant
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / Aprepitant
+ddi: advise
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / methylprednisolone
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: The IV methylprednisolone dose should be reduced by approximately 25%, and the oral methylprednisolone dose should be reduced by approximately 50% when coadministered with Aprepitant to achieve exposures of methylprednisolone similar to those obtained when it is given without Aprepitant.
+entities: methylprednisolone / Aprepitant
+ddi: null
+>>> match: reduce_VB
+-------------
+sentence: In patients on chronic warfarin therapy, the prothrombin time (INR) should be closely monitored in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of Aprepitant with each chemotherapy cycle.
+entities: warfarin / Aprepitant
+ddi: advise
+>>> match: monitor_VB
+-------------
+sentence: When oxandrolone therapy is initiated in a patient already receiving treatment with warfarin, the INR or prothrombin time (PT) should be monitored closely and the dose of warfarin adjusted as necessary until a stable target INR or PT has been achieved. 
+entities: oxandrolone / warfarin
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: When oxandrolone therapy is initiated in a patient already receiving treatment with warfarin, the INR or prothrombin time (PT) should be monitored closely and the dose of warfarin adjusted as necessary until a stable target INR or PT has been achieved. 
+entities: warfarin / warfarin
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Barbiturates and glutethimide should not be administered to patients receiving coumarin drugs. 
+entities: Barbiturates / coumarin drugs
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Barbiturates and glutethimide should not be administered to patients receiving coumarin drugs. 
+entities: glutethimide / coumarin drugs
+ddi: advise
+>>> match: administer_VB
+-------------
+sentence: Since PLETAL is extensively metabolized by cytochrome P-450 isoenzymes, caution should be exercised when PLETAL is coadministered with inhibitors of C.P.A. such as ketoconazole and erythromycin or inhibitors of CYP2C19 such as omeprazole.
+entities: PLETAL / PLETAL
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Since PLETAL is extensively metabolized by cytochrome P-450 isoenzymes, caution should be exercised when PLETAL is coadministered with inhibitors of C.P.A. such as ketoconazole and erythromycin or inhibitors of CYP2C19 such as omeprazole.
+entities: PLETAL / ketoconazole
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Since PLETAL is extensively metabolized by cytochrome P-450 isoenzymes, caution should be exercised when PLETAL is coadministered with inhibitors of C.P.A. such as ketoconazole and erythromycin or inhibitors of CYP2C19 such as omeprazole.
+entities: PLETAL / erythromycin
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Since PLETAL is extensively metabolized by cytochrome P-450 isoenzymes, caution should be exercised when PLETAL is coadministered with inhibitors of C.P.A. such as ketoconazole and erythromycin or inhibitors of CYP2C19 such as omeprazole.
+entities: PLETAL / omeprazole
+ddi: null
+>>> match: exercise_VB
+-------------
+sentence: Renal function should be carefully monitored, especially if higher dosages of the aminoglycosides are to be administered or if therapy is prolonged, because of the potential nephrotoxicity and ototoxicity of aminoglycosidic antibiotics.
+entities: aminoglycosides / aminoglycosidic antibiotics
+ddi: null
+>>> match: monitor_VB
+-------------
+sentence: Because dexfenfluramine is a serotonin releaser and reuptake inhibitor, dexfenfluramine should not be used concomitantly with a MAO inhibitor.
+entities: dexfenfluramine / dexfenfluramine
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Because dexfenfluramine is a serotonin releaser and reuptake inhibitor, dexfenfluramine should not be used concomitantly with a MAO inhibitor.
+entities: dexfenfluramine / MAO inhibitor
+ddi: null
+>>> match: use_VB
+-------------
+sentence: Because dexfenfluramine is a serotonin releaser and reuptake inhibitor, dexfenfluramine should not be used concomitantly with a MAO inhibitor.
+entities: dexfenfluramine / MAO inhibitor
+ddi: advise
+>>> match: use_VB
+-------------
+sentence: Dexfenfluramine should not be administered with other serotoninergic agents.
+entities: Dexfenfluramine / serotoninergic agents
+ddi: advise
+>>> match: administer_VB
+----------------------
+481 matches found
+----------------------
+P(mechanism|ANY) = 10/481 = 0.02079002079002079
+P(effect|ANY) = 6/481 = 0.012474012474012475
+P(int|ANY) = 0/481 = 0.0
+P(advise|ANY) = 200/481 = 0.4158004158004158
+P(null|ANY) = 265/481 = 0.5509355509355509
+----------------------
+P(effect|monitor_VB) = 2/60 = 0.03333333333333333
+P(advise|monitor_VB) = 9/60 = 0.15
+P(null|monitor_VB) = 49/60 = 0.8166666666666667
+P(advise|exercise_VB) = 2/18 = 0.1111111111111111
+P(null|exercise_VB) = 16/18 = 0.8888888888888888
+P(mechanism|use_VB) = 4/66 = 0.06060606060606061
+P(effect|use_VB) = 1/66 = 0.015151515151515152
+P(advise|use_VB) = 45/66 = 0.6818181818181818
+P(null|use_VB) = 16/66 = 0.24242424242424243
+P(advise|have_VB) = 1/20 = 0.05
+P(null|have_VB) = 19/20 = 0.95
+P(mechanism|take_VB) = 1/27 = 0.037037037037037035
+P(advise|take_VB) = 17/27 = 0.6296296296296297
+P(null|take_VB) = 9/27 = 0.3333333333333333
+P(advise|exceed_VB) = 7/8 = 0.875
+P(null|exceed_VB) = 1/8 = 0.125
+P(mechanism|administer_VB) = 4/94 = 0.0425531914893617
+P(effect|administer_VB) = 1/94 = 0.010638297872340425
+P(advise|administer_VB) = 65/94 = 0.6914893617021277
+P(null|administer_VB) = 24/94 = 0.2553191489361702
+P(mechanism|give_VB) = 1/35 = 0.02857142857142857
+P(effect|give_VB) = 2/35 = 0.05714285714285714
+P(advise|give_VB) = 3/35 = 0.08571428571428572
+P(null|give_VB) = 29/35 = 0.8285714285714286
+P(advise|consider_VB) = 11/29 = 0.3793103448275862
+P(null|consider_VB) = 18/29 = 0.6206896551724138
+P(advise|withdraw_VB) = 1/1 = 1.0
+P(advise|defer_VB) = 1/1 = 1.0
+P(null|follow_VB) = 1/1 = 1.0
+P(advise|avoid_VB) = 9/11 = 0.8181818181818182
+P(null|avoid_VB) = 2/11 = 0.18181818181818182
+P(advise|observe_VB) = 1/11 = 0.09090909090909091
+P(null|observe_VB) = 10/11 = 0.9090909090909091
+P(null|continue_VB) = 2/2 = 1.0
+P(advise|discontinue_VB) = 1/2 = 0.5
+P(null|discontinue_VB) = 1/2 = 0.5
+P(advise|provide_VB) = 1/1 = 1.0
+P(null|draw_VB) = 2/2 = 1.0
+P(null|mix_VB) = 5/5 = 1.0
+P(advise|prescribe_VB) = 2/3 = 0.6666666666666666
+P(null|prescribe_VB) = 1/3 = 0.3333333333333333
+P(advise|allow_VB) = 1/1 = 1.0
+P(null|halve_VB) = 2/2 = 1.0
+P(advise|reduce_VB) = 6/27 = 0.2222222222222222
+P(null|reduce_VB) = 21/27 = 0.7777777777777778
+P(advise|receive_VB) = 1/3 = 0.3333333333333333
+P(null|receive_VB) = 2/3 = 0.6666666666666666
+P(advise|treat_VB) = 4/4 = 1.0
+P(null|refer_VB) = 2/2 = 1.0
+P(null|restrict_VB) = 1/1 = 1.0
+P(null|apply_VB) = 3/3 = 1.0
+P(null|focus_VB) = 1/1 = 1.0
+P(advise|titrate_VB) = 4/5 = 0.8
+P(null|titrate_VB) = 1/5 = 0.2
+P(advise|stop_VB) = 1/1 = 1.0
+P(advise|interrupt_VB) = 1/5 = 0.2
+P(null|interrupt_VB) = 4/5 = 0.8
+P(advise|advise_VB) = 1/7 = 0.14285714285714285
+P(null|advise_VB) = 6/7 = 0.8571428571428571
+P(null|do_VB) = 6/6 = 1.0
+P(advise|warn_VB) = 2/2 = 1.0
+P(null|determine_VB) = 1/1 = 1.0
+P(advise|combine_VB) = 1/1 = 1.0
+P(null|perform_VB) = 3/3 = 1.0
+P(advise|useda_VB) = 1/1 = 1.0
+P(null|beadminister_VB) = 4/4 = 1.0
+P(advise|evaluate_VB) = 1/1 = 1.0
+P(null|test_VB) = 1/1 = 1.0
+P(null|employ_VB) = 1/1 = 1.0
+P(null|precede_VB) = 1/1 = 1.0
